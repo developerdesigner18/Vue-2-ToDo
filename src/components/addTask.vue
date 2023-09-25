@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="mt-5">
         <!-- Form to Add Task -->
         <form @submit.prevent="addTask">
         <!-- Input to Add Task -->
