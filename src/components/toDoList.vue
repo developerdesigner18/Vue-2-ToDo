@@ -1,5 +1,5 @@
 <template>
-    <div class="flex justify-evenly">
+    <div class="grid grid-cols-1 w-3/5 mx-auto place-items-center gap-y-4 lg:grid-cols-2 lg:gap-x-4">
 
         <div class="w-full max-w-sm p-4 bg-white border border-gray-200 rounded-lg shadow sm:p-6 dark:bg-gray-800 dark:border-gray-700 min-h-[450px]">
             <!-- To Do Task List Title -->
